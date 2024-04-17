@@ -7,7 +7,8 @@ createApp({
            message: "Hello Vue Js",
            img: "./img/helloVueJs.png",
            imgAlt: "immagine Vue JS",
-           alignText:"textcenter"
+           alignText:"textcenter",
+           colorActive: "blue"
         }
     }
     
