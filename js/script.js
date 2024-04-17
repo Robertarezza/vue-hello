@@ -4,13 +4,11 @@ createApp({
     
     data() {
         return {
-           message: "Hello Vue Js"
+           message: "Hello Vue Js",
+           img: "./img/helloVueJs.png",
+           imgAlt: "immagine Vue JS",
+           alignText:"textcenter"
         }
-    },
-    
-    methods: {
-       
-    
-    },
+    }
     
 }).mount("#app")

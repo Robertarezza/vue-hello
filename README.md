@@ -4,4 +4,4 @@
 
 ## Bonus:
 
-- [] Aggiungere alla pagina un’immagine, presa anch’essa da un data.
+- [x] Aggiungere alla pagina un’immagine, presa anch’essa da un data.
